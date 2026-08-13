@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habitudes</string>
+    <string name="vie">Vie : 50 / 100</string>
+    <string name="exp">Exp : 12 / 50</string>
+    <string name="mp">MP : 15 / 100</string>
+    <string name="habitudes">HABITUDES</string>
+    <string name="mediter">Mediter</string>
+    <string name="boire">Boire</string>
+    <string name="sport">Sport</string>
+    <string name="manger">Manger</string>
+    <string name="etudier">Etudier</string>
+    <string name="dormir">Dormir</string>
+    <string name="add">+</string>
+    <string name="sous">-</string>
+</resources>
